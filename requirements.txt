@@ -1,0 +1,6 @@
+rarfile
+matplotlib
+termcolor
+jupyter
+pandas
+requests

@@ -1,0 +1,5 @@
+Data provided by czech police can be downloaded at: https://www.policie.cz/clanek/statistika-nehodovosti-900835.aspx?q=Y2hudW09Mg%3d%3d
+the decode key for python: explanations.py can be found over here: https://courses.fit.cvut.cz/MI-PYT/_tasks/pandas/explanations.py
+
+There is one row ignored in the pedestrians table, there was only one instance, where there were two pedestrians in an accident in 2018
+This should not skew results that much but it will simplify the data processing
